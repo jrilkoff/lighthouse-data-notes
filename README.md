@@ -14,5 +14,5 @@ This respository contains all of the notes taken by [Jeremy Rilkoff](https://git
 3. Item Three
 
 * [Unit 1](/Unit_1/)
-    *[Day 1](/Unit_1/Day_1/)
+    * [Day 1](/Unit_1/Day_1/)
 
